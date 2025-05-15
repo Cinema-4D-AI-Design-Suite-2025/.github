@@ -70,7 +70,7 @@ This suite includes specialized tools to augment Cinema 4D’s capabilities:
 
 
 **Animation and Rendering Dashboard**  
-![Animation Dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKxHXjh-aTFjplw2oiaOhA-NLJoLgbm-BPQ&s)  
+![Animation Dashboard](https://framerusercontent.com/images/xyZfTjOp3Wy60uz759xNRko6cI.png)  
 *Panel for configuring AI-driven animations and rendering.*  
 
 ---
